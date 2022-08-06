@@ -2,7 +2,7 @@
 
 ## 1. Установка зависимостей
 
-### `yarn add` || `npm i`
+### `yarn install` || `npm i`
 
 ### node.js - v16.16.0
 
