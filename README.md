@@ -1,25 +1,27 @@
 # Установка и запуск проекта
 
-## 1. Установка зависимостей
+## 1. Копирование репозитория
 
-### `yarn install` || `npm i`
+## `git clone https://github.com/Daniil757/contacts-takeoff.git`
+
+## 2. Установка зависимостей
+
+### `yarn install`
 
 ### node.js - v16.16.0
 
-### npm - 8.14.0
-
 ### yarn - 1.22.10
 
-## 2. Установка json-server и json-server-auth глобально
+## 3. Установка json-server и json-server-auth ГЛОБАЛЬНО
 
 ### `yarn add -g json-server`
 
 ### `yarn add -g json-server-auth`
 
-## 3. Запуск сервера
+## 4. Запуск сервера
 
 ### `json-server-auth db.json -r route.json --port 3003`
 
-## 4. Запуск проекта
+## 5. Запуск проекта
 
 ### `yarn start`
