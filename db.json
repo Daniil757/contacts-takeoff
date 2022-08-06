@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$5Soak81N0.1RtoZsw1FOHONMzH2SSUuFCiKVo82hLsMWtT1MNN/Jq",
+      "id": 2
+    },
+    {
+      "email": "perevozchikovdaniil1@gmail.com",
+      "password": "$2a$10$GuUQ1GTndSh/e/XEOaOeWu/jgecu4Zkg03JKvi2btx2QzfoNKMd9.",
+      "id": 3
+    },
+    {
+      "email": "perevozchikovdaniil@gmail.com",
+      "password": "$2a$10$2NOVaLigvozX7lIseJCAOObSjuZACM1Ega0ehSOEjfmzk74Wqj1V2",
+      "id": 4
+    },
+    {
+      "email": "12312@gmail.com",
+      "password": "$2a$10$UCNEuG.uUba31EmsTTZieeaUreItoBqg1oHM9ZgXJEhLbfnsJPTU.",
+      "id": 5
+    },
+    {
+      "email": "olivier1@mail.com",
+      "password": "$2a$10$vVVkI3bA/t.jGTuQnL9vSuQ7QlwNvNim2w//reQNdQ3e4uJhpgRPi",
+      "id": 6
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "Денис",
+      "lastName": "Романов",
+      "phone": "+7 (904) 135-11-22",
+      "id": 3,
+      "userId": 3
+    },
+    {
+      "firstName": "Влад",
+      "lastName": "Иванов",
+      "phone": "+7 (904) 135-11-22",
+      "id": 4,
+      "userId": 2
+    },
+    {
+      "firstName": "Влад",
+      "lastName": "Иванов",
+      "phone": "+7 (904) 135-11-22",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "firstName": "Денис",
+      "lastName": "Петров",
+      "phone": "+7 (904) 135-11-22",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "firstName": "Даниил",
+      "lastName": "Петров",
+      "phone": "+7 (904) 135-11-22",
+      "userId": 3,
+      "id": 7
+    }
+  ]
+}
